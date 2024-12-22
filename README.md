@@ -41,3 +41,14 @@ I'm mohamad sharafi, a passionate and dedicated Flutter Developer with a strong 
 - **Bachelor's Degree**: Computer Engineer
   - Shahid madani University, Tabriz, Iran
 --->
+
+</br>
+</br>
+
+<div align="center">
+  <a href="http://www.instagram.com/msharafice/">
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram-ea4456.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="mailto:mohamad.sharafi.ce@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
