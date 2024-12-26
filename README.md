@@ -36,11 +36,11 @@ I'm mohamad sharafi, a passionate and dedicated Flutter Developer with a strong 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=FFFFFF)
 ![GitLab](https://img.shields.io/badge/-GitLab-222222?style=flat&logo=GitLab&logoColor=FCC624)
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat&logo=android-studio&logoColor=FFFFFF)
-<!--
+
 ## Education
-- **Bachelor's Degree**: Computer Engineer
-  - Shahid madani University, Tabriz, Iran
---->
+Bachelor: Computer engineering
+Azarbaijan Shahid Madani University
+2022 - Present
 
 </br>
 </br>
