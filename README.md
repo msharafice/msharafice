@@ -11,6 +11,8 @@ You can click the Preview link to take a look at your changes.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isinasheydaei&label=Profile%20views&color=0e75b6&style=flat" alt="isinasheydaei" /> </p>
+
 
 <p align="center">
   <img src="https://github.com/mahdidahouei/mahdidahouei/assets/58371632/69870ff3-aee2-4f00-9422-d4bb4da5cf76" width="70">
