@@ -46,7 +46,7 @@ I'm mohamad sharafi, a passionate and dedicated Flutter Developer with a strong 
 
 </br>
 </br>
-
+<h3 align="left">Connect with me:</h3>
 <div align="center">
   <a href="http://www.instagram.com/msharafice/">
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-ea4456.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
