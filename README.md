@@ -52,5 +52,7 @@ I'm mohamad sharafi, a passionate and dedicated Flutter Developer with a strong 
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-ea4456.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   <a href="mailto:mohamad.sharafi.ce@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+   <a href="http://t.me/msharafice/">
+    <img alt="Telegram" src="https://img.shields.io/badge/instagram-ea4456.svg?&style=for-the-badge&logo=Telegram&logoColor=white" />
   </a>
 </div>
