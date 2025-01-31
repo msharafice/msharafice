@@ -62,4 +62,7 @@ I'm mohamad sharafi, a passionate and dedicated Flutter Developer with a strong 
    <a href="http://t.me/msharafice/">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+   <a href="https://www.linkedin.com/in/setayesh-hoseini-6b655a231/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
