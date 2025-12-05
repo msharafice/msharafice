@@ -33,6 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=msharafice&show_icons=true&theme=tokyonight&hide=prs)](https://github.com/msharafice/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msharafice&langs_count=9&layout=compact&theme=tokyonight)](https://github.com/msharafice/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msharafice&show_icons=true)
 
 ## About Me
 I'm mohamad sharafi, a passionate and dedicated Flutter Developer with a strong focus on Flutter development. I have a proven track record in the computer software industry and am committed to continuous learning and staying up-to-date with the latest technologies. I'm actively seeking opportunities to excel in the field of Flutter development.
