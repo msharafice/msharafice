@@ -50,7 +50,7 @@ I'm mohamad sharafi, a passionate and dedicated Flutter Developer with a strong 
 ## Education
 - **Bachelor**: Computer Engineer
   - Shahid Madani University, Tabriz, Iran
-  - 2022 - Present
+  - 2022 - 2026
 
 </br>
 </br>
